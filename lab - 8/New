@@ -1,0 +1,13 @@
+package lab8;
+
+import java.util.Scanner;
+
+public class New {
+	public  String execute(Scanner scan) {
+		System.out.print("Enter your text: ");
+		
+		String text = scan.nextLine();
+		
+		return text;
+		}
+}
